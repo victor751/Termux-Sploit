@@ -42,7 +42,7 @@ dependencias() {
 	pkg install aapt
 	pkg install aapt2
 	pkg install apksigner
-	pkg install java
+	pkg install ruby
 	pkg install openjdk-17
 	{ sleep 1; clear; }
 }
